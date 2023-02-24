@@ -7,20 +7,25 @@ Service Controls Policies are arguably the most effective preventative guardrail
 
 AWS SCP Examples
 
+https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps_examples.html
+
+AWS SCP Samples
+
 https://aws-samples.github.io/aws-iam-permissions-guardrails/guardrails/scp-guardrails.html 
-
-asecure.cloud example SCPs
-
-https://asecure.cloud/l/scp/ 
 
 AWS Blog on SCP framework
 
 https://aws.amazon.com/blogs/industries/best-practices-for-aws-organizations-service-control-policies-in-a-multi-account-environment/ 
 
+AWS Data perimeter SCP Examples
+
+https://github.com/aws-samples/data-perimeter-policy-examples/tree/main/service_control_policies
+
+asecure.cloud example SCPs
+
+https://asecure.cloud/l/scp/ 
+
 CloudPosse SCPs
 
 https://github.com/cloudposse/terraform-aws-service-control-policies/tree/master/catalog
-
-AWS Data perimeter SCP Examples
-
-https://github.com/aws-samples/data-perimeter-policy-examples/tree/main/service_control_policies 
+ 
