@@ -37,6 +37,10 @@ CloudSecDoc's SCPs
 
 https://cloudsecdocs.com/aws/services/iam/organizations/#sample-scps
 
+ScaleSec SCPs
+
+https://github.com/ScaleSec/terraform_aws_scp
+
 CloudPosse SCPs
 
 https://github.com/cloudposse/terraform-aws-service-control-policies/tree/master/catalog
