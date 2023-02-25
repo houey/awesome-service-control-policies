@@ -25,6 +25,18 @@ asecure.cloud example SCPs
 
 https://asecure.cloud/l/scp/ 
 
+Arkadiy's Chime SCPs
+
+https://gist.github.com/arkadiyt/ce963fc21dd953be3c66b9be9ac6e5fe
+
+Chris Farris' SCPs
+
+https://github.com/jchrisfarris/aws-service-control-policies/
+
+CloudSecDoc's SCPs
+
+https://cloudsecdocs.com/aws/services/iam/organizations/#sample-scps
+
 CloudPosse SCPs
 
 https://github.com/cloudposse/terraform-aws-service-control-policies/tree/master/catalog
