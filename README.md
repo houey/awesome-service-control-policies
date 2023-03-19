@@ -13,6 +13,10 @@ AWS SCP Samples
 
 https://aws-samples.github.io/aws-iam-permissions-guardrails/guardrails/scp-guardrails.html 
 
+AWS Blog with a few additional examples:
+
+https://aws.amazon.com/blogs/security/establishing-a-data-perimeter-on-aws-allow-only-trusted-resources-from-my-organization/
+
 AWS Blog on SCP framework
 
 https://aws.amazon.com/blogs/industries/best-practices-for-aws-organizations-service-control-policies-in-a-multi-account-environment/ 
@@ -20,6 +24,10 @@ https://aws.amazon.com/blogs/industries/best-practices-for-aws-organizations-ser
 AWS Data perimeter SCP Examples
 
 https://github.com/aws-samples/data-perimeter-policy-examples/tree/main/service_control_policies
+
+AWS re:inforce 2022 talk by Tatyana and Rajeev
+
+https://youtu.be/SMi5OBjp1fI
 
 asecure.cloud example SCPs
 
