@@ -52,4 +52,9 @@ https://github.com/ScaleSec/terraform_aws_scp
 CloudPosse SCPs
 
 https://github.com/cloudposse/terraform-aws-service-control-policies/tree/master/catalog
+
+Wiz Blog on SCPs by Scott Piper:
+
+https://www.wiz.io/blog/using-service-control-policies-to-protect-security-baselines
+
  
