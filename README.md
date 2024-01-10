@@ -5,10 +5,6 @@ Listing of resources for example AWS Service Control Policies (SCPs)
 
 Service Controls Policies are arguably the most effective preventative guardrail for AWS Organizations and the member accounts within. Many individuals have shared their policies with all of us, lets try to make them a little easier to find.
 
-AWS SCP Pro-Tips
-
-https://ramimac.me/terraform-minimized-scps
-
 AWS SCP Examples
 
 https://github.com/aws-samples/service-control-policy-examples
@@ -59,8 +55,16 @@ CloudPosse SCPs
 
 https://github.com/cloudposse/terraform-aws-service-control-policies/tree/master/catalog
 
+Summit Route's SCP Best Practices
+
+https://summitroute.com/blog/2020/03/25/aws_scp_best_practices/
+
 Wiz Blog on SCPs by Scott Piper:
 
 https://www.wiz.io/blog/using-service-control-policies-to-protect-security-baselines
+
+Rami's SCP minification pro-tip
+
+https://ramimac.me/terraform-minimized-scps
 
  
