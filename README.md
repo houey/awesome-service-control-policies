@@ -3,7 +3,7 @@ Listing of resources for example AWS Service Control Policies (SCPs), best pract
 
 ## why?
 
-Service Controls Policies are arguably the most effective preventative guardrail for AWS Organizations and the member accounts within. Many individuals have shared their policies with all of us, lets try to make them a little easier to find.
+Service Controls Policies are arguably the most effective preventative guardrail for AWS Organizations and the member accounts within. Many individuals have shared their policies and learnings with all of us, lets try to make them a little easier to find.
 
 AWS SCP Examples
 
