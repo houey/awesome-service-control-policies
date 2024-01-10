@@ -1,5 +1,5 @@
 # awesome-service-control-policies
-Listing of resources for example AWS Service Control Policies (SCPs)
+Listing of resources for example AWS Service Control Policies (SCPs), best practices, and pro-tips when working with SCPs
 
 ## why?
 
